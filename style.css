@@ -1,0 +1,36 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(100, 100, 253);
+    margin: 0px;
+    
+    
+}
+ul{
+    list-style: none;
+    text-align: end;
+    margin: 0px;
+}
+
+li{
+    color: black;
+    display: inline-block;
+    
+    
+    padding: 1em;
+    margin: 0px 20px;
+    text-align: end;
+    cursor: pointer;
+    height: 1em;
+  
+    
+}
+
+li:hover{
+    color: violet;
+
+}
